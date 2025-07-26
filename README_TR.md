@@ -4,7 +4,7 @@ Bu depo, **DTSA** algoritmasının resmi MATLAB kodlarını içermektedir. DTSA,
 
 > Ahmet Cevahir Cinar, Mustafa Servet Kiran,  
 > *A Discrete Tree-Seed Algorithm for Solving Symmetric Traveling Salesman Problem*,  
-> Engineering Science and Technology, an International Journal, Cilt 23, Sayı 5, 2020, Sayfa 1177–1190.  
+> Engineering Science and Technology, an International Journal, Cilt 23, Sayı 4, 2020, Sayfa 879–890.  
 > DOI: https://doi.org/10.1016/j.jestch.2019.11.005
 
 ## 🌍 Problem Alanı
@@ -34,8 +34,8 @@ Algoritma, TSPLIB’deki standart TSP örnekleri üzerinde test edilmiştir.
   author = {Cinar, Ahmet Cevahir and Kiran, Mustafa Servet},
   journal = {Engineering Science and Technology, an International Journal},
   volume = {23},
-  number = {5},
-  pages = {1177--1190},
+  number = {4},
+  pages = {879--890},
   year = {2020},
   doi = {10.1016/j.jestch.2019.11.005},
   url = {https://www.sciencedirect.com/science/article/pii/S2215098619313527}
