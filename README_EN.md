@@ -18,10 +18,8 @@ Evaluated on standard TSP benchmark instances from TSPLIB.
 
 ## 📁 Contents
 
-- `simtreetsp_main.m`: Main script to run the algorithm
-- `instances/`: TSP benchmark problem files (e.g. `berlin52.tsp`)
-- `operators/`: Custom discrete TSA operators (2-opt, swap, etc.)
-- `results/`: Output logs and best routes
+- `main.m`: Main script to run the algorithm
+- `tspdata/`: TSP benchmark problem files (e.g. `berlin52.tsp`)
 
 ## 🛠 Requirements
 
