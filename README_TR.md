@@ -18,10 +18,8 @@ Algoritma, TSPLIB’deki standart TSP örnekleri üzerinde test edilmiştir.
 
 ## 📁 İçerik
 
-- `simtreetsp_main.m`: Algoritmayı çalıştıran ana dosya
-- `instances/`: TSP problem dosyaları (örn. `berlin52.tsp`)
-- `operators/`: Ayrık TSA operatörleri (2-opt, swap vs.)
-- `results/`: Çıktı logları ve en iyi turlar
+- `main.m`: Algoritmayı çalıştıran ana dosya
+- `tspdata/`: TSP problem dosyaları (örn. `berlin52.tsp`)
 
 ## 🛠 Gereksinimler
 
